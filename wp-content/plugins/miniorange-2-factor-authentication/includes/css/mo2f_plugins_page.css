@@ -1,0 +1,46 @@
+.mo2f_modal {
+		display: none; 
+		position: fixed; 
+		z-index: 9999;
+		padding-top: 100px;
+		left: 100px;
+		top: 0;
+		margin-left:220px;
+		width: 50%; 
+		height: 100%; 
+		
+	}
+
+	
+	.mo2f_modal-content {
+		background-color: #fefefe;
+		margin: auto;
+		padding: 20px;
+		border: 1px solid #888;
+		width: 55%;
+	}
+
+	.mo2f_close {
+		color: #aaaaaa;
+		float: right;
+		font-size: 28px;
+		font-weight: bold;
+	}
+
+	.mo2f_close:hover,
+	.mo2f_close:focus {
+		color: #000;
+		text-decoration: none;
+		cursor: pointer;
+	}
+	.alert{
+		padding:5px;
+		margin-bottom:10px;
+		border:1px solid transparent;
+		border-radius:4px
+	}
+	.alert-info{
+		color:#31708f;
+		background-color:#d9edf7;
+		border-color:#bce8f1
+	}

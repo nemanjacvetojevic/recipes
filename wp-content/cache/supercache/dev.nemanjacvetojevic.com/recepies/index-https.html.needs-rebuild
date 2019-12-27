@@ -1,0 +1,360 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+        <meta charset="UTF-8">
+		<title>Recipe</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Mountains+of+Christmas:400,700|Roboto:300,400,500&display=swap" rel="stylesheet">
+		<title>Recipe</title>
+<meta name='robots' content='noindex,nofollow' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Recipe &raquo; Feed" href="https://dev.nemanjacvetojevic.com/recepies/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Recipe &raquo; Comments Feed" href="https://dev.nemanjacvetojevic.com/recepies/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/dev.nemanjacvetojevic.com\/recepies\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.2"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://dev.nemanjacvetojevic.com/recepies/wp-includes/css/dist/block-library/style.min.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='recipe-style-css'  href='https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/style.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-style-css'  href='https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/css/normalize.css?ver=1577457939' type='text/css' media='all' />
+<link rel='stylesheet' id='style-style-css'  href='https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/css/style.css?ver=1577457939' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://dev.nemanjacvetojevic.com/recepies/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dev.nemanjacvetojevic.com/recepies/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://dev.nemanjacvetojevic.com/recepies/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.3.2" />
+<link rel="canonical" href="https://dev.nemanjacvetojevic.com/recepies/" />
+<link rel='shortlink' href='https://dev.nemanjacvetojevic.com/recepies/' />
+<link rel="alternate" type="application/json+oembed" href="https://dev.nemanjacvetojevic.com/recepies/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdev.nemanjacvetojevic.com%2Frecepies%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://dev.nemanjacvetojevic.com/recepies/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdev.nemanjacvetojevic.com%2Frecepies%2F&#038;format=xml" />
+		<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	</head>
+	
+		
+	<body class="home page-template page-template-page-recipies-template page-template-page-recipies-template-php page page-id-25 wp-custom-logo recipe-class my-class">
+        <div class="world-wrap">
+        
+        <div class="navbar">
+            <div class="logo">
+                <div class="site-logo faux-heading"><a href="https://dev.nemanjacvetojevic.com/recepies/" class="custom-logo-link" rel="home"><img width="98" height="81"   alt="Recipe" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/cropped-logo-1.png" class="custom-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="98" height="81"   alt="Recipe" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/cropped-logo-1.png" class="custom-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="98" height="81" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/cropped-logo-1.png" class="custom-logo" alt="Recipe" /></noscript></noscript></a><span class="screen-reader-text">Recipe</span></div>            </div>
+            <nav>
+            <div class="recipe-navigation">
+            <div class="nav navbar-nav navbar-right"><ul>
+<li class="page_item page-item-25 current_page_item"><a href="https://dev.nemanjacvetojevic.com/recepies/" aria-current="page">Recepies</a></li>
+<li class="page_item page-item-9"><a href="https://dev.nemanjacvetojevic.com/recepies/submit-recipe/">Submit recipe</a></li>
+</ul></div>
+            </div>
+            </nav>
+        </div>
+        
+	    	<div class="hero-banner">
+		<div class="content-wrapper">
+		<h1>Best prepared with love</h1>
+		<a href="https://dev.nemanjacvetojevic.com/recepies/submit-recipe/">Submit recipe</a>
+		</div>
+		<img    alt="Christmass Recepies" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/img/heroBanner.png" class="hero-banner-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="hero-banner-image" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/img/heroBanner.png"  alt="Christmass Recepies" /></noscript>
+		<img    alt="Christmass Recepies" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/img/mobileBanner.png" class="hero-banner-image-mobile lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="hero-banner-image-mobile" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/img/mobileBanner.png"  alt="Christmass Recepies" /></noscript>
+	</div>
+	<div class="recipies-container">
+		<h2>Newest recipies</h2>
+		<div class="grid-wrapper">
+
+								
+					<article id="post-72" class="post-72 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Gingerbread Cookies" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-1024x384.png" class="attachment-large size-large wp-post-image" alt="Gingerbread Cookies" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Cookies.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Gingerbread Cookies</h3>
+			</header>
+			<div class="excerpt">
+				<p>In a large bowl using a hand mixer, beat butter, brown sugar, and molasses until fluffy, about 2 minutes. Add egg and vanilla and beat until combined. In a medium bowl, whisk flour, spices, baking soda, and salt until combined. With the mixer on low, gradually add dry ingredients to wet ingredients, as well as  fresh ginger, orange zest, and black&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/gingerbread-cookies/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-69" class="post-69 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Peppermint Icebox Pie" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-1024x384.png" class="attachment-large size-large wp-post-image" alt="Peppermint Icebox Pie" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Snowman-Spoons.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Peppermint Icebox Pie</h3>
+			</header>
+			<div class="excerpt">
+				<p>Make the crust: Pulse cookies in a food processor until fine crumbs form, 10 to 15 times. Add salt and butter, and pulse to combine, 8 to 10 times. Press crumb mixture into a 9&#8243; pie plate. Make the filling: Beat cream cheese with an electric mixer on medium speed until smooth, 2 to 3&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/peppermint-icebox-pie/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-66" class="post-66 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Snowman Spoons" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-1024x384.png" class="attachment-large size-large wp-post-image" alt="Snowman Spoons" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Peppermint-Icebox-Pie.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Snowman Spoons</h3>
+			</header>
+			<div class="excerpt">
+				<p>Line a large baking sheet with parchment paper. In a small microwave-safe bowl, melt chocolate on 50 percent power in 30-second intervals, stirring in between, until smooth. Working one at a time, dip each spoon into melted chocolate, tap off excess, and transfer to prepared baking sheet. Create snowman bodies with 3 mini marshmallows, then&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/snowman-spoons/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-63" class="post-63 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Gingerbread Wands" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-1024x384.png" class="attachment-large size-large wp-post-image" alt="Gingerbread Wands" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Wands.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Gingerbread Wands</h3>
+			</header>
+			<div class="excerpt">
+				<p>Preheat oven to 325 degrees F. In 4-quart saucepan, combine granulated sugar, molasses, pumpkin pie spice and black pepper, heat to boiling on medium, stirring occasionally. Remove from heat; stir in baking soda, then butter. With fork, stir in egg, then flour until combined. On floured surface knead dough until smooth; divide in half. Wrap&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/gingerbread-wands/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-60" class="post-60 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Cranberry-Pear Lattice Pie" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-1024x384.png" class="attachment-large size-large wp-post-image" alt="Cranberry-Pear Lattice Pie" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Cranberry-Pear-Lattice-Pie.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Cranberry-Pear Lattice Pie</h3>
+			</header>
+			<div class="excerpt">
+				<p>Make double the amount of Easiest Ever Pastry Dough (2 servings total). Make Pie: Peel and core pears, then cut into 1⁄2-inch-thick slices; transfer to large bowl. Toss with cranberries, orange zest and juice, cornstarch, cinnamon, nutmeg and 1⁄2 cup sugar. On lightly floured surface, roll 1 disk dough into 13-inch round. Fit into bottom and up side&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/cranberry-pear-lattice-pie/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-57" class="post-57 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Gluten-Free Chocolate Ganache Tart" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-1024x384.png" class="attachment-large size-large wp-post-image" alt="Gluten-Free Chocolate Ganache Tart" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gluten-Free-Chocolate-Ganache-Tart.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Gluten-Free Chocolate Ganache Tart</h3>
+			</header>
+			<div class="excerpt">
+				<p>Preheat oven to 375°F. Grease 9&#8243; tart pan with removable bottom. In large bowl, combine shredded coconut, pretzels, rice flour, coconut oil, sugar, and cocoa. Transfer to prepared tart pan. With hands, firmly press mixture into bottom and up side of pan in even layer; place on cookie sheet. Bake 10 minutes. Cool completely on&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/gluten-free-chocolate-ganache-tart/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-54" class="post-54 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Ruby Red Grapefruit Tartlets" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-1024x384.png" class="attachment-large size-large wp-post-image" alt="Ruby Red Grapefruit Tartlets" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Ruby-Red-Grapefruit-Tartlets.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Ruby Red Grapefruit Tartlets</h3>
+			</header>
+			<div class="excerpt">
+				<p>Make crust: Using electric mixer, beat butter, confectioners’ sugar and salt in large bowl until light and fluffy, about 3 minutes; beat in vanilla. Reduce speed, add flour and mix until just combined. Divide dough in half and roll each half between 2 pieces of parchment to 1/8 inch thick. Cut each piece in half and&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/ruby-red-grapefruit-tartlets/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-51" class="post-51 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Chocolate, Hazelnut &amp; Caramel Tart" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-1024x384.png" class="attachment-large size-large wp-post-image" alt="Chocolate, Hazelnut &amp; Caramel Tart" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Chocolate-Hazelnut-Caramel-Tart.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Chocolate, Hazelnut &#038; Caramel Tart</h3>
+			</header>
+			<div class="excerpt">
+				<p>Heat oven to 350°F. Make crust: Place hazelnuts on small rimmed baking sheet and roast until starting to turn golden, 5 to 8 minutes. Transfer to large kitchen towel, bunch into sack, and rub until most of skins have been removed; let cool. Lightly butter a 13 1/2- by 4 1/2-inch rectangular removable-bottom tart pan&#8230;.</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/chocolate-hazelnut-caramel-tart/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+									
+					<article id="post-48" class="post-48 recipe type-recipe status-publish has-post-thumbnail hentry">
+	
+	
+	
+	<div class="card">
+		<div class="card-world-wrap">
+						<div class="thumbnail-wrapper">
+				<div class="thumbnail"><img width="640" height="240"   alt="Gingerbread Sandwich Cookies" data-srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies.png 1920w" sizes="(max-width: 640px) 100vw, 640px" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-1024x384.png" class="attachment-large size-large wp-post-image lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="640" height="240" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-1024x384.png" class="attachment-large size-large wp-post-image" alt="Gingerbread Sandwich Cookies" srcset="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-1024x384.png 1024w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-300x113.png 300w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-768x288.png 768w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies-1536x576.png 1536w, https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/Gingerbread-Sandwich-Cookies.png 1920w" sizes="(max-width: 640px) 100vw, 640px" /></noscript></div>
+			</div>
+			<header class="entry-header">
+				<h3>Gingerbread Sandwich Cookies</h3>
+			</header>
+			<div class="excerpt">
+				<p>In a large bowl, whisk together the flour, ginger, cinnamon, nutmeg, baking soda, cloves and salt. Using an electric mixer, beat the butter and brown sugar in a large bowl until light and fluffy, about 3 minutes. Beat in the egg, molasses and vanilla. Reduce the mixer speed to low and gradually add the flour&#8230;</p>
+			</div>
+		
+					</div>
+		<div class="button-wrapper">
+			<a href="https://dev.nemanjacvetojevic.com/recepies/recipe/gingerbread-sandwich-cookies/">Read More</a>
+		</div>
+	</div>
+
+</article>
+
+				
+								<section class="e_nxtprev">
+				<section>
+			<div class="e_next"></div>
+			<div class="e_prev"><a href="https://dev.nemanjacvetojevic.com/recepies/page/2/" >NEXT PAGE</a></div>
+  		</section>
+					</div>
+		
+	</div>
+            <div class="push"></div>
+        </div>
+        <footer>
+            <div class="logo">
+                <div class="site-logo faux-heading"><a href="https://dev.nemanjacvetojevic.com/recepies/" class="custom-logo-link" rel="home"><img width="98" height="81"   alt="Recipe" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/cropped-logo-1.png" class="custom-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="98" height="81"   alt="Recipe" data-src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/cropped-logo-1.png" class="custom-logo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="98" height="81" src="https://dev.nemanjacvetojevic.com/recepies/wp-content/uploads/2019/12/cropped-logo-1.png" class="custom-logo" alt="Recipe" /></noscript></noscript></a><span class="screen-reader-text">Recipe</span></div>            </div>
+            <h4>Enjoy holidays!</h4>
+            <h5>©Copyright Nemanja Cvetojević</h5>
+        </footer>
+        <script type='text/javascript'>
+window.lazySizesConfig = window.lazySizesConfig || {};
+
+window.lazySizesConfig.lazyClass    = 'lazyload';
+window.lazySizesConfig.loadingClass = 'lazyloading';
+window.lazySizesConfig.loadedClass  = 'lazyloaded';
+
+lazySizesConfig.loadMode = 1;
+</script>
+<script type='text/javascript' src='https://dev.nemanjacvetojevic.com/recepies/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.3.2'></script>
+<script type='text/javascript'>
+lazySizes.init();
+</script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.4.1.min.js'></script>
+<script type='text/javascript' src='https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipeChild/js/recipe.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipe/js/navigation.js?ver=20151215'></script>
+<script type='text/javascript' src='https://dev.nemanjacvetojevic.com/recepies/wp-content/themes/recipe/js/skip-link-focus-fix.js?ver=20151215'></script>
+<script type='text/javascript' src='https://dev.nemanjacvetojevic.com/recepies/wp-includes/js/wp-embed.min.js?ver=5.3.2'></script>
+    </body>
+</html>
+<!-- Dynamic page generated in 0.082 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-12-27 14:46:14 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
